@@ -5,6 +5,7 @@
     "build": "next build"
   },
   "dependencies": {
+    "@supabase/supabase-js": "^2.45.1",
     "next": "latest",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
